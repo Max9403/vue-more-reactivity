@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "Benjamin Claassen",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Max9403/vue-more-reactivity.git"
+  },
   "peerDependencies": {
     "vue": "2.x"
   }

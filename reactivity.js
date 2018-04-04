@@ -1,2 +1,2 @@
-import {install} from './map-reactivity'
+import {install} from './index'
 install()

@@ -1,5 +1,5 @@
 {
-  "name": "vue-more-reactivity",
+  "name": "@dark_eye/vue-more-reactivity",
   "version": "1.0.0",
   "description": "Add more reactivity support to Vue such as Maps, Sets and iterators",
   "main": "index.js",
